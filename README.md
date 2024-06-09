@@ -1,1 +1,1 @@
-![alt text](https://github.com/HiiiiiPritam/Hackathon1/blob/master/all.png?raw=true)
+![alt text](https://raw.githubusercontent.com/HiiiiiPritam/Hackathon1/master/all.png?raw=true)
