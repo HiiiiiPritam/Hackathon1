@@ -1,2 +1,2 @@
 ```markdown
-![Dashboard](public/all.png)
+![Dashboard](./all.png)
