@@ -1,2 +1,2 @@
 ```markdown
-![Dashboard](./all.png)
+![Dashboard](./next.svg)
