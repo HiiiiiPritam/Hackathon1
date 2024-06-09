@@ -1,1 +1,1 @@
-![alt text](https://raw.githubusercontent.com/HiiiiiPritam/Hackathon1/master/all.png?raw=true)
+![The San Juan Mountains are beautiful!](/public/next.svg "San Juan Mountains")
